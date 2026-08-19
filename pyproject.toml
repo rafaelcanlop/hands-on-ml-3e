@@ -1,0 +1,15 @@
+[project]
+name = "hands-on-ml-3e"
+version = "0.1.0"
+description = "Personal study repository for Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, 3rd Edition"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scikit-learn",
+    "tensorflow",
+    "keras",
+    "jupyter",
+    "notebook",
+]
